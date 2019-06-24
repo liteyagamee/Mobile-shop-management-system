@@ -1,0 +1,24 @@
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.exe.config
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.exe
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.pdb
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.csprojAssemblyReference.cache
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.Login.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.Properties.Resources.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.csproj.GenerateResource.cache
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.exe
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.pdb
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.Dashboard.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.RegisterUser.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.AddEmpolyee.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.AddCustomer.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.AddProduct.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.DisplayUser.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.DisplayCustomer.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.DisplayEmployee.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.DisplayProduct.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.AddBill.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.DisplayBill.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.View.Search.resources
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MetroSet UI.dll
+C:\Users\Rupesh Thapa\source\repos\MobileShopManagementSystem\MobileShopManagementSystem\obj\Debug\MobileShopManagementSystem.csproj.CopyComplete
